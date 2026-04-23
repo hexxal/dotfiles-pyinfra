@@ -1,0 +1,11 @@
+[border]
+radius=3
+
+[colors]
+background=282a2edd
+text=f8f8f2ff
+match=f0c674ff
+selection-match=f0c674ff
+selection=44475add
+selection-text=f8f8f2ff
+border=f0c674ff
